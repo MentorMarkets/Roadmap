@@ -4,7 +4,7 @@
 
 ## Why?
 
-Learning any skill on your own is hard. Look at any successful person- most of them will say they had a "mentor", an expert in that skill
+Learning any skill on your own is hard. Look at any successful person- most of them will say they had a "mentor", an expert in that skill. This app brings the airbnb / uber model to mentoring and allows everyone to get that experience of having an awesome mentor.
 
 
 ## High Level TODOs
